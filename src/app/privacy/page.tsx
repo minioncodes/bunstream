@@ -8,7 +8,7 @@ export default function Privacy() {
       <h2>How We Use Information</h2>
       <p>To provide support, billing, account management, and service optimization.</p>
       <h2>Your Rights</h2>
-      <p>Request access, correction, or deletion of your data. Email support@example.com.</p>
+      <p>Request access, correction, or deletion of your data. Email support@bunstream.com.</p>
     </div>
   )
 }

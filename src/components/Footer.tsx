@@ -5,8 +5,8 @@ export function Footer() {
         <div className="grid grid-cols-1 gap-6 sm:grid-cols-3">
           <div>
             <div className="text-lg font-semibold">BunStream</div>
-            <p className="mt-2 text-sm text-gray-600">Placeholder company, 123 Business Rd, Suite 100, New York, NY 10001</p>
-            <p className="mt-1 text-sm text-gray-600">support@example.com</p>
+            <p className="mt-2 text-sm text-gray-600"></p>
+            <p className="mt-1 text-sm text-gray-600">support@bunstream.com</p>
           </div>
           <div>
             <div className="font-semibold">Company</div>
