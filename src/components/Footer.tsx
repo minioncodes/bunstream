@@ -21,7 +21,7 @@ export function Footer() {
             <p className="mt-2 text-xs text-gray-500">Service availability, pricing, and features are subject to change and may vary by platform. All trademarks are property of their respective owners.</p>
           </div>
         </div>
-        <div className="mt-6 border-t pt-4 text-xs text-gray-500">© {new Date().getFullYear()} BunStream — For demo use.</div>
+        <div className="mt-6 border-t pt-4 text-xs text-gray-500">© {new Date().getFullYear()} BunStream </div>
       </div>
     </footer>
   )
