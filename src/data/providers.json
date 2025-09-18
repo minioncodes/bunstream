@@ -1,0 +1,86 @@
+[
+  {
+    "id": "netflix",
+    "name": "Netflix",
+    "price": 15.49,
+    "tagline": "Award-winning TV shows & movies",
+    "logo": "https://logo.clearbit.com/netflix.com"
+  },
+  {
+    "id": "hulu",
+    "name": "Hulu",
+    "price": 17.99,
+    "tagline": "Live and on-demand TV",
+    "logo": "https://logo.clearbit.com/hulu.com"
+  },
+  {
+    "id": "disney",
+    "name": "Disney+",
+    "price": 13.99,
+    "tagline": "Marvel, Star Wars, Pixar & more",
+    "logo": "https://logo.clearbit.com/disneyplus.com"
+  },
+  {
+    "id": "max",
+    "name": "Max",
+    "price": 15.99,
+    "tagline": "HBO Originals & more",
+    "logo": "https://logo.clearbit.com/max.com"
+  },
+  {
+    "id": "peacock",
+    "name": "Peacock",
+    "price": 7.99,
+    "tagline": "Sports, news, and hits",
+    "logo": "https://logo.clearbit.com/peacocktv.com"
+  },
+  {
+    "id": "paramount",
+    "name": "Paramount+",
+    "price": 11.99,
+    "tagline": "Live sports & originals",
+    "logo": "https://logo.clearbit.com/paramountplus.com"
+  },
+  {
+    "id": "apple",
+    "name": "Apple TV+",
+    "price": 9.99,
+    "tagline": "Apple Originals",
+    "logo": "https://logo.clearbit.com/tv.apple.com"
+  },
+  {
+    "id": "prime",
+    "name": "Prime Video",
+    "price": 14.99,
+    "tagline": "Movies, series & more",
+    "logo": "https://logo.clearbit.com/primevideo.com"
+  },
+  {
+    "id": "starz",
+    "name": "STARZ",
+    "price": 9.99,
+    "tagline": "Hit movies & series",
+    "logo": "https://logo.clearbit.com/starz.com"
+  },
+  {
+    "id": "showtime",
+    "name": "SHOWTIME",
+    "price": 10.99,
+    "tagline": "Original series & docs",
+    "logo": "https://logo.clearbit.com/showtime.com"
+  },
+  {
+    "id": "amc",
+    "name": "AMC+",
+    "price": 8.99,
+    "tagline": "AMC shows, shudder & more",
+    "logo": "https://logo.clearbit.com/amcplus.com"
+  },
+  {
+    "id": "discovery",
+    "name": "Discovery+",
+    "price": 8.99,
+    "tagline": "Reality, nature & docs",
+    "logo": "https://logo.clearbit.com/discoveryplus.com"
+  }
+]

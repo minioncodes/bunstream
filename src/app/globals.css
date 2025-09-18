@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --radius: 1rem;
+}
+
+.container-px { @apply px-4 sm:px-6 lg:px-8; }
+
+.btn {
+  @apply inline-flex items-center justify-center rounded-2xl px-5 py-3 font-medium shadow-soft transition hover:shadow-lg active:scale-[0.98];
+}
+.btn-primary { @apply bg-brand text-white hover:bg-brand-dark; }
+.btn-ghost { @apply border border-gray-300 text-gray-800 hover:bg-gray-50; }
+.card { @apply rounded-2xl bg-white shadow-soft ring-1 ring-gray-100; }
+.badge { @apply inline-flex items-center gap-1 rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600; }
