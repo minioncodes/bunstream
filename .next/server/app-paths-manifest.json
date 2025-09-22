@@ -1,8 +1,4 @@
 {
-  "/bundles/page": "app/bundles/page.js",
-  "/contact/page": "app/contact/page.js",
-  "/privacy/page": "app/privacy/page.js",
-  "/terms/page": "app/terms/page.js",
   "/page": "app/page.js",
-  "/checkout/page": "app/checkout/page.js"
+  "/bundles/page": "app/bundles/page.js"
 }

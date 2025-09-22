@@ -1,4 +1,4 @@
-// File: C:\Users\Hp\Downloads\ott-bundle-starter\src\app\bundles\page.tsx
+// File: C:\Users\Hp\Desktop\Office\bunstream\src\app\bundles\page.tsx
 import * as entry from '../../../../src/app/bundles/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
