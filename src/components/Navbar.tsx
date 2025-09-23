@@ -1,6 +1,6 @@
 'use client'
 import Link from 'next/link'
-import { Menu, PlaySquare } from 'lucide-react'
+import { Menu, PlaySquare, Phone } from 'lucide-react'
 import { useState } from 'react'
 
 export function Navbar() {
@@ -18,9 +18,21 @@ export function Navbar() {
           <Link href="/contact" className="hover:text-brand">Contact</Link>
           <Link href="/privacy" className="hover:text-brand">Privacy</Link>
           <Link href="/terms" className="hover:text-brand">Terms</Link>
+          {/* Phone number with call icon */}
+          <a
+            href="tel:8339215472"
+            className="flex items-center gap-2 font-semibold text-gray-700 hover:text-brand"
+          >
+            <Phone className="h-5 w-5 text-brand" />
+            (833) 921-5472
+          </a>
           <Link href="/bundles" className="btn btn-primary">Start</Link>
         </nav>
-        <button className="md:hidden" onClick={() => setOpen(v => !v)} aria-label="Toggle menu">
+        <button
+          className="md:hidden"
+          onClick={() => setOpen(v => !v)}
+          aria-label="Toggle menu"
+        >
           <Menu className="h-6 w-6" />
         </button>
       </div>
@@ -32,6 +44,14 @@ export function Navbar() {
             <Link href="/contact">Contact</Link>
             <Link href="/privacy">Privacy</Link>
             <Link href="/terms">Terms</Link>
+            {/* Phone number with call icon in mobile menu */}
+            <a
+              href="tel:8339215472"
+              className="flex items-center gap-2 font-semibold text-gray-700 hover:text-brand"
+            >
+              <Phone className="h-5 w-5 text-brand" />
+              (833) 921-5472
+            </a>
           </div>
         </div>
       )}
