@@ -24,7 +24,7 @@ export function Navbar() {
             className="flex items-center gap-2 font-semibold text-gray-700 hover:text-brand"
           >
             <Phone className="h-5 w-5 text-brand" />
-            (833) 921-5472
+            (833) 224-9359
           </a>
           <Link href="/bundles" className="btn btn-primary">Start</Link>
         </nav>
