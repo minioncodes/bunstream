@@ -46,11 +46,11 @@ export function Navbar() {
             <Link href="/terms">Terms</Link>
             {/* Phone number with call icon in mobile menu */}
             <a
-              href="tel:8339215472"
+              href="tel:(833) 224-9359"
               className="flex items-center gap-2 font-semibold text-gray-700 hover:text-brand"
             >
               <Phone className="h-5 w-5 text-brand" />
-              (833) 921-5472
+              (833) 224-9359
             </a>
           </div>
         </div>
