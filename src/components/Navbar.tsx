@@ -24,7 +24,7 @@ export function Navbar() {
             className="flex items-center gap-2 font-semibold text-gray-700 hover:text-brand"
           >
             <Phone className="h-5 w-5 text-brand" />
-            (833) 224-9359
+            (844) 587-5473
           </a>
           <Link href="/bundles" className="btn btn-primary">Start</Link>
         </nav>
@@ -46,11 +46,11 @@ export function Navbar() {
             <Link href="/terms">Terms</Link>
             {/* Phone number with call icon in mobile menu */}
             <a
-              href="tel:(833) 224-9359"
+              href="tel:(844) 587-5473"
               className="flex items-center gap-2 font-semibold text-gray-700 hover:text-brand"
             >
               <Phone className="h-5 w-5 text-brand" />
-              (833) 224-9359
+              (844) 587-5473
             </a>
           </div>
         </div>

@@ -11,11 +11,11 @@ export function Footer() {
             <p className="mt-1 text-sm text-gray-600">support@bunstream.com</p>
             {/* Phone number with call icon */}
             <a
-              href="tel:(833) 224-9359"
+              href="tel:(844) 587-5473"
               className="mt-1 flex items-center gap-2 text-sm font-medium text-gray-700 hover:text-brand"
             >
               <Phone className="h-4 w-4 text-brand" />
-              (833) 224-9359
+              (844) 587-5473
             </a>
           </div>
           <div>
