@@ -20,11 +20,11 @@ export function Navbar() {
           <Link href="/terms" className="hover:text-brand">Terms</Link>
           {/* Phone number with call icon */}
           <a
-            href="tel:8339215472"
+            href="tel:(844) 586-5473"
             className="flex items-center gap-2 font-semibold text-gray-700 hover:text-brand"
           >
             <Phone className="h-5 w-5 text-brand" />
-            (844) 587-5473
+            (844) 586-5473
           </a>
           <Link href="/bundles" className="btn btn-primary">Start</Link>
         </nav>
@@ -46,11 +46,11 @@ export function Navbar() {
             <Link href="/terms">Terms</Link>
             {/* Phone number with call icon in mobile menu */}
             <a
-              href="tel:(844) 587-5473"
+              href="tel:(844) 586-5473"
               className="flex items-center gap-2 font-semibold text-gray-700 hover:text-brand"
             >
               <Phone className="h-5 w-5 text-brand" />
-              (844) 587-5473
+              (844) 586-5473
             </a>
           </div>
         </div>
